@@ -1,4 +1,14 @@
 {
+  "name": "supportedsites",
+  "version": "1.0.0",
+  "description": "supported sites api for my app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hamza",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
   }
