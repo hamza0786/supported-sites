@@ -33,7 +33,7 @@ app.get('/sites', function(req, res){
         },
         {
             "site": "9GAG",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/9gag.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/gag.png"
         },
         {
             "site": "Akilli TV",
