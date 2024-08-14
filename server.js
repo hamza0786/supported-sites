@@ -205,7 +205,7 @@ app.get('/sites', function(req, res){
         },
         {
             "site": "VK",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/vk.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/vkontakte.png"
         },
         {
             "site": "YouTube",
