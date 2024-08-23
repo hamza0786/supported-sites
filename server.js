@@ -13,207 +13,207 @@ app.get('/sites', function(req, res){
     res.json([
         {
           "site": "Tiktok",
-	  "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/tiktok.png"
+	  "logourl": "https://lumensoft.site/sources/tiktok.png"
         },
         {
             "site": "Dailymotion",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/dailymotion.png"
+	    "logourl": "https://lumensoft.site/sources/dailymotion.png"
 	},
         {
             "site": "Likee",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/likee.png"
+	    "logourl": "https://lumensoft.site/sources/likee.png"
         },
         {
             "site": "Moj",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/moj.png"
+	    "logourl": "https://lumensoft.site/sources/moj.png"
         },
         {
             "site": "Vimeo",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/vimeo.png"
+	    "logourl": "https://lumensoft.site/sources/vimeo.png"
         },
         {
             "site": "9GAG",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/gag.png"
+	    "logourl": "https://lumensoft.site/sources/gag.png"
         },
         {
             "site": "Akilli TV",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/akillitv.png"
+	    "logourl": "https://lumensoft.site/sources/akillitv.png"
         },
         {
             "site": "Bandcamp",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/bandcamp.png"
+	    "logourl": "https://lumensoft.site/sources/bandcamp.png"
         },
         {
             "site": "Bilibili",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/bilibili.png"
+	    "logourl": "https://lumensoft.site/sources/bilibili.png"
         },
         {
             "site": "Bitchute",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/bitchute.png"
+	    "logourl": "https://lumensoft.site/sources/bitchute.png"
         },
         {
             "site": "Blogger",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/blogger.png"
+	    "logourl": "https://lumensoft.site/sources/blogger.png"
         },
         {
             "site": "BluTV",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/blutv.png"
+	    "logourl": "https://lumensoft.site/sources/blutv.png"
         },
         {
             "site": "Buzzfeed",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/buzzfeed.png"
+	    "logourl": "https://lumensoft.site/sources/buzzfeed.png"
         },
         {
             "site": "Capcut",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/capcut.png"
+	    "logourl": "https://lumensoft.site/sources/capcut.png"
         },
         {
             "site": "Chingari",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/chingari.png"
+	    "logourl": "https://lumensoft.site/sources/chingari.png"
         },
         {
             "site": "Douyin",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/douyin.png"
+	    "logourl": "https://lumensoft.site/sources/douyin.png"
         },
         {
             "site": "ESPN",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/espn.png"
+	    "logourl": "https://lumensoft.site/sources/espn.png"
         },
         {
             "site": "Facebook",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/facebook.png"
+	    "logourl": "https://lumensoft.site/sources/facebook.png"
         },
         {
             "site": "Febspot",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/febspot.png"
+	    "logourl": "https://lumensoft.site/sources/febspot.png"
         },
         {
             "site": "Flickr",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/flickr.png"
+	    "logourl": "https://lumensoft.site/sources/flickr.png"
         },
         {
             "site": "Ifunny",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/ifunny.png"
+	    "logourl": "https://lumensoft.site/sources/ifunny.png"
         },
         {
             "site": "IMDB",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/imdb.png"
+	    "logourl": "https://lumensoft.site/sources/imdb.png"
         },
         {
             "site": "Imgur",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/imgur.png"
+	    "logourl": "https://lumensoft.site/sources/imgur.png"
         },
         {
             "site": "Instagram",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/instagram.png"
+	    "logourl": "https://lumensoft.site/sources/instagram.png"
         },
         {
             "site": "Izlesene",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/izlesene.png"
+	    "logourl": "https://lumensoft.site/sources/izlesene.png"
         },
         {
             "site": "Kwai",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/kwai.png"
+	    "logourl": "https://lumensoft.site/sources/kwai.png"
         },
         {
             "site": "Lemon8",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/lemon8.png"
+	    "logourl": "https://lumensoft.site/sources/lemon8.png"
         },
         {
             "site": "LinkedIn",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/linkedin.png"
+	    "logourl": "https://lumensoft.site/sources/linkedin.png"
         },
         {
             "site": "Loom",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/loom.png"
+	    "logourl": "https://lumensoft.site/sources/loom.png"
         },
         {
             "site": "Mashable",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/mashable.png"
+	    "logourl": "https://lumensoft.site/sources/mashable.png"
         },
         {
             "site": "Mastodon",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/mastodon.png"
+	    "logourl": "https://lumensoft.site/sources/mastodon.png"
         },
         {
             "site": "Mixcloud",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/mixcloud.png"
+	    "logourl": "https://lumensoft.site/sources/mixcloud.png"
         },
         {
             "site": "MxTakatak",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/mxtakatak.png"
+	    "logourl": "https://lumensoft.site/sources/mxtakatak.png"
         },
         {
             "site": "Ok.ru",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/odnoklassniki.png"
+	    "logourl": "https://lumensoft.site/sources/odnoklassniki.png"
         },
         {
             "site": "Pinterest",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/pinterest.png"
+	    "logourl": "https://lumensoft.site/sources/pinterest.png"
         },
         {
             "site": "PuhuTV",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/puhutv.png"
+	    "logourl": "https://lumensoft.site/sources/puhutv.png"
         },
         {
             "site": "Reddit",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/reddit.png"
+	    "logourl": "https://lumensoft.site/sources/reddit.png"
         },
         {
             "site": "Rumble",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/rumble.png"
+	    "logourl": "https://lumensoft.site/sources/rumble.png"
         },
         {
             "site": "Share Chat",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/sharechat.png"
+	    "logourl": "https://lumensoft.site/sources/sharechat.png"
         },
         {
             "site": "Snapchat",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/snapchat.png"
+	    "logourl": "https://lumensoft.site/sources/snapchat.png"
         },
         {
             "site": "Soundcloud",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/soundcloud.png"
+	    "logourl": "https://lumensoft.site/sources/soundcloud.png"
         },
         {
             "site": "Streamable",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/streamable.png"
+	    "logourl": "https://lumensoft.site/sources/streamable.png"
         },
         {
             "site": "Substack",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/substack.png"
+	    "logourl": "https://lumensoft.site/sources/substack.png"
         },
         {
             "site": "TED",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/ted.png"
+	    "logourl": "https://lumensoft.site/sources/ted.png"
         },
         {
             "site": "Telegram",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/telegram.png"
+	    "logourl": "https://lumensoft.site/sources/telegram.png"
         },
         {
             "site": "Threads",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/threads.png"
+	    "logourl": "https://lumensoft.site/sources/threads.png"
         },
         {
             "site": "Tumblr",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/tumblr.png"
+	    "logourl": "https://lumensoft.site/sources/tumblr.png"
         },
         {
             "site": "Twitch",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/twitch.png"
+	    "logourl": "https://lumensoft.site/sources/twitch.png"
         },
         {
             "site": "VK",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/vkontakte.png"
+	    "logourl": "https://lumensoft.site/sources/vkontakte.png"
         },
         {
             "site": "YouTube",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/youtube.png"
+	    "logourl": "https://lumensoft.site/sources/youtube.png"
         },
         {
             "site": "X",
-	    "logourl": "https://videodownloaderapi.intlsite.com/wp-content/plugins/aio-video-downloader/assets/img/sources/x.png"
+	    "logourl": "https://lumensoft.site/sources/x.png"
         }
     ])
 })
