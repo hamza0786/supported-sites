@@ -13,207 +13,207 @@ app.get('/sites', function(req, res){
     res.json([
         {
           "site": "Tiktok",
-	  "logourl": "https://lumensoft.site/sources/tiktok.png"
+	  "logourl": "https://videodownloaderapi.intlsite.com/sources/tiktok.png"
         },
         {
             "site": "Dailymotion",
-	    "logourl": "https://lumensoft.site/sources/dailymotion.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/dailymotion.png"
 	},
         {
             "site": "Likee",
-	    "logourl": "https://lumensoft.site/sources/likee.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/likee.png"
         },
         {
             "site": "Moj",
-	    "logourl": "https://lumensoft.site/sources/moj.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/moj.png"
         },
         {
             "site": "Vimeo",
-	    "logourl": "https://lumensoft.site/sources/vimeo.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/vimeo.png"
         },
         {
             "site": "9GAG",
-	    "logourl": "https://lumensoft.site/sources/gag.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/gag.png"
         },
         {
             "site": "Akilli TV",
-	    "logourl": "https://lumensoft.site/sources/akillitv.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/akillitv.png"
         },
         {
             "site": "Bandcamp",
-	    "logourl": "https://lumensoft.site/sources/bandcamp.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/bandcamp.png"
         },
         {
             "site": "Bilibili",
-	    "logourl": "https://lumensoft.site/sources/bilibili.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/bilibili.png"
         },
         {
             "site": "Bitchute",
-	    "logourl": "https://lumensoft.site/sources/bitchute.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/bitchute.png"
         },
         {
             "site": "Blogger",
-	    "logourl": "https://lumensoft.site/sources/blogger.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/blogger.png"
         },
         {
             "site": "BluTV",
-	    "logourl": "https://lumensoft.site/sources/blutv.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/blutv.png"
         },
         {
             "site": "Buzzfeed",
-	    "logourl": "https://lumensoft.site/sources/buzzfeed.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/buzzfeed.png"
         },
         {
             "site": "Capcut",
-	    "logourl": "https://lumensoft.site/sources/capcut.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/capcut.png"
         },
         {
             "site": "Chingari",
-	    "logourl": "https://lumensoft.site/sources/chingari.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/chingari.png"
         },
         {
             "site": "Douyin",
-	    "logourl": "https://lumensoft.site/sources/douyin.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/douyin.png"
         },
         {
             "site": "ESPN",
-	    "logourl": "https://lumensoft.site/sources/espn.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/espn.png"
         },
         {
             "site": "Facebook",
-	    "logourl": "https://lumensoft.site/sources/facebook.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/facebook.png"
         },
         {
             "site": "Febspot",
-	    "logourl": "https://lumensoft.site/sources/febspot.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/febspot.png"
         },
         {
             "site": "Flickr",
-	    "logourl": "https://lumensoft.site/sources/flickr.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/flickr.png"
         },
         {
             "site": "Ifunny",
-	    "logourl": "https://lumensoft.site/sources/ifunny.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/ifunny.png"
         },
         {
             "site": "IMDB",
-	    "logourl": "https://lumensoft.site/sources/imdb.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/imdb.png"
         },
         {
             "site": "Imgur",
-	    "logourl": "https://lumensoft.site/sources/imgur.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/imgur.png"
         },
         {
             "site": "Instagram",
-	    "logourl": "https://lumensoft.site/sources/instagram.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/instagram.png"
         },
         {
             "site": "Izlesene",
-	    "logourl": "https://lumensoft.site/sources/izlesene.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/izlesene.png"
         },
         {
             "site": "Kwai",
-	    "logourl": "https://lumensoft.site/sources/kwai.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/kwai.png"
         },
         {
             "site": "Lemon8",
-	    "logourl": "https://lumensoft.site/sources/lemon8.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/lemon8.png"
         },
         {
             "site": "LinkedIn",
-	    "logourl": "https://lumensoft.site/sources/linkedin.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/linkedin.png"
         },
         {
             "site": "Loom",
-	    "logourl": "https://lumensoft.site/sources/loom.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/loom.png"
         },
         {
             "site": "Mashable",
-	    "logourl": "https://lumensoft.site/sources/mashable.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/mashable.png"
         },
         {
             "site": "Mastodon",
-	    "logourl": "https://lumensoft.site/sources/mastodon.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/mastodon.png"
         },
         {
             "site": "Mixcloud",
-	    "logourl": "https://lumensoft.site/sources/mixcloud.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/mixcloud.png"
         },
         {
             "site": "MxTakatak",
-	    "logourl": "https://lumensoft.site/sources/mxtakatak.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/mxtakatak.png"
         },
         {
             "site": "Ok.ru",
-	    "logourl": "https://lumensoft.site/sources/odnoklassniki.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/odnoklassniki.png"
         },
         {
             "site": "Pinterest",
-	    "logourl": "https://lumensoft.site/sources/pinterest.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/pinterest.png"
         },
         {
             "site": "PuhuTV",
-	    "logourl": "https://lumensoft.site/sources/puhutv.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/puhutv.png"
         },
         {
             "site": "Reddit",
-	    "logourl": "https://lumensoft.site/sources/reddit.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/reddit.png"
         },
         {
             "site": "Rumble",
-	    "logourl": "https://lumensoft.site/sources/rumble.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/rumble.png"
         },
         {
             "site": "Share Chat",
-	    "logourl": "https://lumensoft.site/sources/sharechat.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/sharechat.png"
         },
         {
             "site": "Snapchat",
-	    "logourl": "https://lumensoft.site/sources/snapchat.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/snapchat.png"
         },
         {
             "site": "Soundcloud",
-	    "logourl": "https://lumensoft.site/sources/soundcloud.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/soundcloud.png"
         },
         {
             "site": "Streamable",
-	    "logourl": "https://lumensoft.site/sources/streamable.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/streamable.png"
         },
         {
             "site": "Substack",
-	    "logourl": "https://lumensoft.site/sources/substack.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/substack.png"
         },
         {
             "site": "TED",
-	    "logourl": "https://lumensoft.site/sources/ted.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/ted.png"
         },
         {
             "site": "Telegram",
-	    "logourl": "https://lumensoft.site/sources/telegram.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/telegram.png"
         },
         {
             "site": "Threads",
-	    "logourl": "https://lumensoft.site/sources/threads.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/threads.png"
         },
         {
             "site": "Tumblr",
-	    "logourl": "https://lumensoft.site/sources/tumblr.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/tumblr.png"
         },
         {
             "site": "Twitch",
-	    "logourl": "https://lumensoft.site/sources/twitch.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/twitch.png"
         },
         {
             "site": "VK",
-	    "logourl": "https://lumensoft.site/sources/vkontakte.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/vkontakte.png"
         },
         {
             "site": "YouTube",
-	    "logourl": "https://lumensoft.site/sources/youtube.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/youtube.png"
         },
         {
             "site": "X",
-	    "logourl": "https://lumensoft.site/sources/x.png"
+	    "logourl": "https://videodownloaderapi.intlsite.com/sources/x.png"
         }
     ])
 })
